@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Test
 include: ["_pages"]
-img: "/https://imgbb.com/][img]https://image.ibb.co/kSOUWw/NPAav1517086562.jpg"
+img: "https://imgbb.com/][img]https://image.ibb.co/kSOUWw/NPAav1517086562.jpg"
 
 author:
   name: "Go Back"
