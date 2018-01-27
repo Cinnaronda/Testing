@@ -1,10 +1,7 @@
----
-layout: food
-title: "Avocado Toast"
-date: 2018-01-13
-author: 
-permalink: ./stop/
-detail: "Umm stop please!"
-en: en
-img: https://23209-presscdn-pagely.netdna-ssl.com/wp-content/uploads/2016/04/5MinuteAvocadoToastIMG_8273edit-340x340.jpg
----
+remote_theme: mmistakes/minimal-mistakes
+title: Test
+include: ["_pages"]
+img: "/https://imgbb.com/][img]https://image.ibb.co/kSOUWw/NPAav1517086562.jpg"
+
+author:
+  name: "Go Back"
